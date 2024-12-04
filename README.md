@@ -13,11 +13,6 @@ Este projeto consiste em uma réplica do layout do Spotify, criada com **HTML**,
 Você pode visualizar o projeto acessando o link abaixo:  
 [Spotify Layout - Vercel](https://spotify-layout-xi.vercel.app)
 
-## 📂 Estrutura do Projeto
-
-spotify-layout/ ├── index.html # Página principal ├── styles.css # Estilos principais ├── script.js # Funcionalidades em JavaScript ├── assets/ # Imagens e outros arquivos estáticos └── README.md # Documentação do projeto
-
-
 ## 🚀 Como Rodar o Projeto Localmente
 
 1. Clone o repositório:
