@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.4721mm" height="5.4721mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8.79 8.79"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="739" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Century Gothic">
+		<font-face-src>
+			<font-face-name name="Century Gothic"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="+" horiz-adv-x="606" d="M268.999 393.005l0 211.991 66.9977 0 0 -211.991 213 0 0 -66.9977 -213 0 0 -212.011 -66.9977 0 0 212.011 -213 0 0 66.9977 213 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Century Gothic";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#FEFEFE}
+    .fnt0 {font-weight:normal;font-size:8.28px;font-family:'Century Gothic'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M4.39 0c-2.43,0 -4.39,1.97 -4.39,4.39 0,2.43 1.97,4.39 4.39,4.39 2.43,0 4.39,-1.97 4.39,-4.39 0,-2.43 -1.97,-4.39 -4.39,-4.39zm0 0.83c-1.97,0 -3.57,1.6 -3.57,3.57 0,1.97 1.6,3.57 3.57,3.57 1.97,0 3.57,-1.6 3.57,-3.57 0,-1.97 -1.6,-3.57 -3.57,-3.57z"/>
+  <text x="1.89" y="7.37"  class="fil0 fnt0">+</text>
+ </g>
+</svg>

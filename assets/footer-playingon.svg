@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.3429mm" height="8.145mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8.58 13.07"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#1DB954}
+    .fil1 {fill:#1DB954}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M0.82 0l6.95 0c0.45,0 0.82,0.37 0.82,0.82l0 7.1c0,0.45 -0.37,0.82 -0.82,0.82l-6.95 0c-0.45,0 -0.82,-0.37 -0.82,-0.82l0 -7.1c0,-0.45 0.37,-0.82 0.82,-0.82zm0.92 1.16l5.1 0c0.33,0 0.6,0.27 0.6,0.6l0 5.21c0,0.33 -0.27,0.6 -0.6,0.6l-5.1 0c-0.33,0 -0.6,-0.27 -0.6,-0.6l0 -5.21c0,-0.33 0.27,-0.6 0.6,-0.6z"/>
+  <polygon class="fil0" points="5.96,4.32 4.54,3.5 3.12,2.69 3.12,4.32 3.12,5.96 4.54,5.14 "/>
+  <circle class="fil1" cx="4.27" cy="11.83" r="1.24"/>
+ </g>
+</svg>

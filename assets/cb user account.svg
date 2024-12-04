@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="195px" height="195px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.45 7.45"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="668" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="Y" horiz-adv-x="668" d="M279.369 0l0 303.915 -276.523 413.46 114.215 0 141.759 -217.091c26.3924,-40.2295 50.9385,-80.4806 73.3123,-120.732 21.8742,37.5793 48.4187,79.6552 79.3293,126.423l138.913 211.4 110.718 0 -286.537 -413.46 0 -303.915 -95.1865 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#1F1F1F;stroke-width:0.09;stroke-miterlimit:22.9256}
+    .str1 {stroke:#FF6437;stroke-width:0.09;stroke-miterlimit:22.9256}
+    .fil2 {fill:#373435}
+    .fil0 {fill:#1F1F1F}
+    .fil1 {fill:#FF6437}
+    .fnt0 {font-weight:normal;font-size:2.08px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="3.73" cy="3.73" r="3.68"/>
+  <path class="fil1 str1" d="M3.73 1.21c-1.39,0 -2.52,1.13 -2.52,2.52 0,1.38 1.13,2.51 2.52,2.51 1.38,0 2.51,-1.13 2.51,-2.51 0,-0.4 -0.1,-0.78 -0.26,-1.12 -0.12,0.16 -0.3,0.26 -0.5,0.26 -0.35,0 -0.62,-0.28 -0.62,-0.62 0,-0.24 0.14,-0.45 0.34,-0.56 -0.41,-0.3 -0.92,-0.48 -1.47,-0.48z"/>
+  <text x="3.03" y="4.47"  class="fil2 fnt0">Y</text>
+ </g>
+</svg>

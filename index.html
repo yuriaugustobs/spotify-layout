@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <div id="container">
+        <div id="cabecalho">
+            <button class= "cabecalho" id="reticencias"> </button>
+            <button class= "cabecalho" id="back"> </button>
+            <button class= "cabecalho" id="avancar"> </button>
+
+            <button class= "cabecalho" id="homeIcon"> </button>
+            <input type="text" id="pesquisa" name="pesquisa" placeholder="O que voce quer ouvir">
+            <button class= "cabecalho" id="searchIcon"> </button>
+            <button id="verticalLine"></button>
+            <button class= "cabecalho" id="market"></button>
+
+            <button class= "cabecalho" id="notifications"></button>
+            <button class= "cabecalho" id="social"></button>
+            <button class= "cabecalho" id="userProfile"></button>
+            
+            <button class= "cabecalho" id="minimize"></button>
+            <button class= "cabecalho" id="maximize"></button>
+            <button class= "cabecalho" id="close"></button>
+
+
+        </div>
+
+        <div id="mini_music_big">
+            <div id="miniCovers">
+                <button class="album" id="album1"></button>
+                <button class="album" id="album2"></button>
+                <button class="album" id="album3"></button>
+                <button class="album" id="album4"></button>
+                <button class="album" id="album5"></button>
+                <button class="album" id="album6"></button>
+                <button class="album" id="album7"></button>
+                <button class="album" id="album8"></button>
+                <button class="album" id="album9"></button>
+            </div>
+
+            <div id="musicList">
+                <div id="albumContainer">
+
+                    <div id="albumInfo">
+
+                        <img src="./assets/bigcover.jpg" alt="smallCover" id="smallCover">
+                        
+                        <div id="containerForAlbumInfo">
+                        <span class="compilacao">Compilable</span>
+                        <span class="titulo">CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack</span>
+                        <span class="detalhes">Vários Intérpretes ° 2006 ° 22 músicas, 47min 8 s</span>
+
+                    </div>
+
+                    </div>
+                    <div id="list1" >
+                        <button class="botao" id="play"></button>
+                        <button class="botao" id="order"></button>
+                        <button class="botao" id="addList"></button>
+                        <button class="botao" id="downloadList"></button>
+                        <button class="botao" id="optionsList"></button>
+                        <span class= "botao" id="Lista"></span> 
+                        <button class="botao" id="list"></button>
+                    </div>
+
+                    <div id="list-table">
+                        <span id="hashtag" class="musicNumberHeader">#</span>
+                        <span id="title" class="musicTitleHeader">Título</span>
+                        <span id="views" class="musicViewsHeader">Reproduções</span>
+                        <icon id="iconDuration"></icon>
+
+                        <span id="musicNumber1" class="musicNumber">1</span>
+                        <span id="musicNumber2" class="musicNumber">2</span>
+                        <span id="musicNumber3" class="musicNumber">3</span>
+
+                        <span id="musicTitle1" class="musicTitle">0</span>3
+                        <span id="musicArtist1" class="musicArtist">Kotaro Nakogawa</span>
+                        <span id="musicViews1" class="musicViews">958.566</span>
+                        <span id="musicDuration1" class="musicDuration">3:12</span>
+
+                        <span id="musicTitle2" class="musicTitle">Stories</span>
+                        <span id="musicArtist2" class="musicArtist">Hitomi</span> 
+                        <span id="musicViews2" class="musicViews">958.566</span>
+                        <span id="musicDuration2" class="musicDuration">3:12</span>
+
+                        <span id="musicTitle3" class="musicTitle">Prologue</span>
+                        <span id="musicArtist3" class="musicArtist">Kotaro Nakogawa</span>
+                        <span id="musicViews3" class="musicViews">99.546</span>
+                        <span id="musicDuration3" class="musicDuration">2:16</span>
+                    </div>
+
+                    </div>
+            </div>
+            
+
+            <div id="bigCover">
+                <h1>Code Geass OST Spotify</h1>
+                <img src="./assets/bigcover.jpg" alt="bigcover" id="bigCoverImg">
+                <h2 id="musicTitle">Stories</h2>
+                <span>Hitomi</span>
+                <button class="options"></button>
+                <button class="close"></button>
+                <button class="addFavorite"></button>
+            </div>
+    </div>
+
+        </div>
+        <div id="footer">
+            <button class="album" id="albumFooter"></button>
+            <button class="collapse" id="collapseIcon"> </button>
+            <div id="containerForTitles">
+                <span id="musicTitleForFooter"> Stories </span>
+                <span id="musicArtistForFooter">Hitomi</span>
+            </div>
+            <button id ="addFooter"></button>
+
+
+            <div class="audio-player">
+
+                <button class="botaoplayer" id="shuffle"></button>
+                <button class="botaoplayer" id="previous"></button>
+                <button class="botaoplayer" id="next"></button>
+                <button class="botaoplayer" id="repeat"></button>
+
+                <audio id="audio" src="/assets/Angel_Feather_Voice_Stories_-_Hitomi_Kuroishi_[_YouConvert.net_].mp3"></audio>
+                <button id="playPauseBtn"></button>
+
+                <div id="progress-barr">
+                    <input type="range" id="progress" value="0" class="progress-bar">
+                    <span id="time-display">0:00</span>
+                </div>
+
+                
+                <div id="containerForControlsButtons">
+                <button class="controlsButton" id="playingOn"></button>
+                <button class="controlsButton" id="karaoke"></button>
+                <button class="controlsButton" id="showList"></button>
+                <button class="controlsButton" id="connect"></button>
+                <button class="controlsButton" id="soundControl"></button>
+                <button class="controlsButtonvol" id="soundVol"></button>
+                <button class="controlsButton" id="miniplayer"></button>
+                <button class="controlsButton" id="fullscreen"></button>
+                </div>
+            
+            </div>
+
+
+        </div>
+    </div>
+    
+</body>
+</html> 
+
