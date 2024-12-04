@@ -16,7 +16,7 @@ body{
 }
 
 #cabecalho{
-    height: 223px;
+    height: 13.9375rem;
     display: flex;
     flex-direction:row;
 }
@@ -30,14 +30,14 @@ body{
 
 #miniCovers{
     border: none;
-    height: 2038px;
-    width: 347.15px;
+    height: 127.375rem;
+    width: 21.6969rem;
 }
 
 #musicList{
     border: none;
-    height: 2038px;
-    width: 3380.06px;
+    height: 127.375rem;
+    width: 211.2537rem;
     background-image: url(/assets/background-list-music.png);
     background-size:cover;
     background-repeat:no-repeat;
@@ -45,67 +45,67 @@ body{
 }
 
 #bigCover{
-    padding: 10px;
+    padding: 0.625rem;
     border: none;
-    border-radius: 100px;
+    border-radius: 6.25rem;
     background-color: #121212;
-    height: 2038px;
-    width: 1676px;
+    height: 127.375rem;
+    width: 104.75rem;
     display: flex;
     flex-direction: column;
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 #bigCover h1{
     color: white;
-    font-size:57px;
-    margin-left: 65px;
-    margin-top: 87px;
+    font-size:3.5625rem;
+    margin-left: 4.0625rem;
+    margin-top: 5.4375rem;
 }
 
 #bigCover h2{
     color:white;
-    font-size: 74px;
-    margin-left:60px;
-    margin-top: 1250px;
+    font-size: 4.625rem;
+    margin-left:3.75rem;
+    margin-top: 78.125rem;
 }
 
 #bigCover span{
     color:white;
-    font-size: 44px;
-    margin-left: 60px;
+    font-size: 2.75rem;
+    margin-left: 3.75rem;
     position: absolute;
-    margin-top: 1800px;
+    margin-top: 112.5rem;
 }
 
 #bigCover #musicTitle{
-    margin-top: 1500px;
+    margin-top: 93.75rem;
 }
 #bigCoverImg{
-    height: 1320px;
-    width: 1480px;
+    height: 82.5rem;
+    width: 92.5rem;
     border: none;
     margin: auto;
-    border-radius: 50px;
+    border-radius: 3.125rem;
     position: absolute;
-    margin-top: 226px;
-    margin-left: 73px;
+    margin-top: 14.125rem;
+    margin-left: 4.5625rem;
 }
 
 #bigCover .options{
     background-image: url(/assets/options-symbol-bigcover.png);
     position: absolute;
-    width:80px;
-    height:70px;
+    width:5rem;
+    height:4.375rem;
     position:absolute;
-    margin-top:73px;
-    margin-left: 1240px;
+    margin-top:4.5625rem;
+    margin-left: 77.5rem;
     background-color: transparent;
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: center;
     border:none;
-    border-radius:10px;
+    border-radius:0.625rem;
 }
 
 #bigCover .options:hover{
@@ -117,13 +117,13 @@ body{
 #bigCover .close{
     background-image: url(/assets/x-symbol-bigcoveer.png);
     position:absolute;
-    width:80px;
-    height:70px;
-    margin-top:74px;
-    margin-left: 1425px;
+    width:5rem;
+    height:4.375rem;
+    margin-top:4.625rem;
+    margin-left: 89.0625rem;
     background-color: transparent;
     border:none;
-    border-radius:10px;
+    border-radius:0.625rem;
 }
 
 #bigCover .close:hover{
@@ -142,13 +142,13 @@ body{
     background-color: transparent;
     background-size: 100%;
     background-repeat: no-repeat;
-    border: 1px solid white;
+    border: 0.0625rem solid white;
     position: absolute;
-    width: 76px;
-    height: 76px;
+    width: 4.75rem;
+    height: 4.75rem;
     border-radius: 50%;
-    margin-left: 1430px;
-    margin-top: 1700px;
+    margin-left: 89.375rem;
+    margin-top: 106.25rem;
 }
 
 #bigCover .addFavorite:hover{
@@ -164,24 +164,24 @@ body{
     display: flex;
     flex-direction: column;
     align-items: column;
-    padding:20px;
+    padding:1.25rem;
 }
 
 #albumInfo{
     width: 100%;
-    height: 800px;
-    margin-top: 20px;
+    height: 50rem;
+    margin-top: 1.25rem;
     display:flex;
     flex-direction: row;
 }
 
 #albumContainer img{
-    width:740px;
-    height:650px;
-    border-radius: 20px;
-    box-shadow: 0 0 10px 0 rgba(255,255,255,0.5);
-    margin-top:70px;
-    margin-left: 40px;
+    width:46.25rem;
+    height:40.625rem;
+    border-radius: 1.25rem;
+    box-shadow: 0 0 0.625rem 0 rgba(255,255,255,0.5);
+    margin-top:4.375rem;
+    margin-left: 2.5rem;
 }
 
 #containerForAlbumInfo{
@@ -189,26 +189,26 @@ body{
     height: auto;
     display: flex;
     flex-direction: column;
-    padding: 60px;
+    padding: 3.75rem;
 
 }
 #albumInfo .compilacao {
     color: white;
-    font-size: 44px;
-    margin-top: 300px;;
+    font-size: 2.75rem;
+    margin-top: 18.75rem;;
 }
 
 #albumInfo .titulo {
     color: white;
-    font-size: 90px;
+    font-size: 5.625rem;
     font-weight: bold;
-    margin: 10px 0;
+    margin: 0.625rem 0;
 }
 
 #albumInfo .detalhes {
     color: white;
-    font-size: 44px;
-    margin: 10px 0;
+    font-size: 2.75rem;
+    margin: 0.625rem 0;
 }
 
 
@@ -219,9 +219,9 @@ body{
     justify-content: space-evenly;
 }
 .album{
-    width:230px;
-    height:200px;
-    border-radius:30px;
+    width:14.375rem;
+    height:12.5rem;
+    border-radius:1.875rem;
     border:none;
     background-color: transparent;
     background-repeat: no-repeat;
@@ -231,21 +231,21 @@ body{
 
 .album:hover{
     cursor:pointer;
-    border-radius: 30px;
+    border-radius: 1.875rem;
     transition: 0.2s;
 }
 
 .album:focus{
-    width:300px;
-    height:300px;
+    width:18.75rem;
+    height:18.75rem;
     transition: 0.2s;
-    border: 1px solid rgba(255, 255, 255, 0.4);
+    border: 0.0625rem solid rgba(255, 255, 255, 0.4);
 }
 
 #album1{background-image: url(/assets/1.png);}
 #album1:hover{ background-image: url(/assets/1-1.png);}
 
-#album2{background-image: url(/assets/2.png); border-radius: 10px;}
+#album2{background-image: url(/assets/2.png); border-radius: 0.625rem;}
 #album2:hover{ background-image: url(/assets/2-2.png);}
 
 #album3{background-image: url(/assets/3.png);}
@@ -271,26 +271,26 @@ body{
 
 #albumContainer #list1 {
   width: 100%;
-  height: 300px;
+  height: 18.75rem;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 116px;
-  margin-top:40px;
+  gap: 7.25rem;
+  margin-top:2.5rem;
 }
 
 #play {
     background-image: url(/assets/list-play.png);
-    width: 232px;
-    height: 232px;
+    width: 14.5rem;
+    height: 14.5rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
     border:none;
     border-radius: 50%;
-    margin-left: 70px;;
+    margin-left: 4.375rem;;
     opacity: 0.8;
 }
 
@@ -302,8 +302,8 @@ body{
 
 #order {
     background-image: url(/assets/list\ order.png);
-    width: 131px;
-    height: 97px;
+    width: 8.1875rem;
+    height: 6.0625rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -320,8 +320,8 @@ body{
 
 #addList {
     background-image: url(/assets/list\ add\ favorites.png);
-    width: 134px;
-    height: 134px;
+    width: 8.375rem;
+    height: 8.375rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -338,8 +338,8 @@ body{
 
 #downloadList {
     background-image: url(/assets/list\ downlaod.png);
-    width: 134px;
-    height: 134px;
+    width: 8.375rem;
+    height: 8.375rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -356,14 +356,14 @@ body{
 
 #optionsList {
     background-image: url(/assets/list\ options.png);
-    width: 105px;
-    height: 17px;
+    width: 6.5625rem;
+    height: 1.0625rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
     border:none;
-    margin-right: -100px;
+    margin-right: -6.25rem;
     opacity: 0.8;
 }
 
@@ -375,9 +375,9 @@ body{
 
 #list {
     background-image: url(/assets/list\ show.png);
-    width: 61px;
-    height: 53px;
-    margin-left: 1650px;
+    width: 3.8125rem;
+    height: 3.3125rem;
+    margin-left: 103.125rem;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -393,12 +393,12 @@ body{
 }
 
 #list-table{
-    height: 800px;
+    height: 50rem;
     display: flex;
 }
 
 .musicTitleHeader, .musicViewsHeader, .musicNumberHeader, .musicDurationHeader{
-    font-size: 42px;
+    font-size: 2.625rem;
     color:white;
 }
 
@@ -408,144 +408,144 @@ body{
 
 .musicNumber, .musicTitle, .musicViews, .musicDuration{
     color: rgb(217, 217, 217);
-    font-size: 60px;
+    font-size: 3.75rem;
 }
 
 .musicArtist{
     color: rgb(217, 217, 217);
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 .musicNumber{
-    margin-left: 180px;
+    margin-left: 11.25rem;
     opacity: 0.6;
-    font-size: 45px;
+    font-size: 2.8125rem;
 }
 
 #hashtag{
-    margin-left: 180px;
-    margin-top: 56px;
+    margin-left: 11.25rem;
+    margin-top: 3.5rem;
 }
 
 #title{
-    margin-left:100px;
-    margin-top: 55px;
+    margin-left:6.25rem;
+    margin-top: 3.4375rem;
 }
 
 #views{
-    margin-left: 1375px;
-    margin-top: 55px;
+    margin-left: 85.9375rem;
+    margin-top: 3.4375rem;
 }
 
 #duration{
-    margin-left: 2800px;
-    margin-top: 10px;
+    margin-left: 175rem;
+    margin-top: 0.625rem;
 }
 
 #musicNumber1{
-    margin-top: 250px;
+    margin-top: 15.625rem;
 }
 
 #musicNumber2{
-    margin-top: 450px;
+    margin-top: 28.125rem;
 }
 
 #musicNumber3{
-    margin-top: 650px;
+    margin-top: 40.625rem;
 }
 
 #musicTitle1{
-    margin-top: 210px;
-    margin-left:310px;
+    margin-top: 13.125rem;
+    margin-left:19.375rem;
 }
 
 #musicTitle2{
-    margin-top: 430px;
-    margin-left:300px;
+    margin-top: 26.875rem;
+    margin-left:18.75rem;
 }
 
 #musicTitle3{
-    margin-top: 610px;
-    margin-left:300px;
+    margin-top: 38.125rem;
+    margin-left:18.75rem;
 }
 
 #musicArtist1{
-    margin-top: 290px;
-    margin-left:300px;
+    margin-top: 18.125rem;
+    margin-left:18.75rem;
 }
 
 #musicArtist2{
-    margin-top: 500px;
-    margin-left:300px;
+    margin-top: 31.25rem;
+    margin-left:18.75rem;
 }
 
 #musicArtist3{
-    margin-top: 680px;
-    margin-left:300px;
+    margin-top: 42.5rem;
+    margin-left:18.75rem;
 }
 
 #musicViews1{
-    margin-left: 1800px;
-    margin-top: 220px;
+    margin-left: 112.5rem;
+    margin-top: 13.75rem;
 }
 
 #musicViews2{
-    margin-left: 1800px;
-    margin-top: 420px;
+    margin-left: 112.5rem;
+    margin-top: 26.25rem;
 }
 
 #musicViews3{
-    margin-left: 1800px;
-    margin-top: 620px;
+    margin-left: 112.5rem;
+    margin-top: 38.75rem;
 }
 
 #musicDuration1{
-    margin-left: 2850px;
-    margin-top: 220px;
+    margin-left: 178.125rem;
+    margin-top: 13.75rem;
 }
 
 #musicDuration2{
-    margin-left: 2850px;
-    margin-top: 420px;
+    margin-left: 178.125rem;
+    margin-top: 26.25rem;
 }
 
 
 #musicDuration3{
-    margin-left: 2850px;
-    margin-top: 620px;
+    margin-left: 178.125rem;
+    margin-top: 38.75rem;
 }
 
 #iconDuration{
-    width: 50px;
-    height: 50px;
+    width: 3.125rem;
+    height: 3.125rem;
     background-image: url(/assets/iconDuration.png);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    margin-left: 850px;
-    margin-top: 55px;
+    margin-left: 53.125rem;
+    margin-top: 3.4375rem;
 }
 
 #footer{
-    height:304px;
+    height:19rem;
     display: flex;
 }
 
 #albumFooter{
-    width: 250px;
-    height: 250px;
-    border-radius: 10px;
+    width: 15.625rem;
+    height: 15.625rem;
+    border-radius: 0.625rem;
     background-image: url(/assets/footer-img.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
-    margin-left: 65px;
-    margin-top: 22px;
+    margin-left: 4.0625rem;
+    margin-top: 1.375rem;
 }
 
 #collapseIcon{
-    width: 97px;
-    height: 97px;
+    width: 6.0625rem;
+    height: 6.0625rem;
     border-radius: 50%;
     background-image: url(/assets/collapseIcon.png);
     background-color: transparent;
@@ -553,8 +553,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
-    margin-left: 210px;
-    margin-top: 40px;
+    margin-left: 13.125rem;
+    margin-top: 2.5rem;
     opacity: 0.0;
 }
 
@@ -565,9 +565,9 @@ body{
 }
 
 #containerForTitles {
-    width: 400px;
-    height: 180px;
-    margin-top: 70px;
+    width: 25rem;
+    height: 11.25rem;
+    margin-top: 4.375rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -575,16 +575,16 @@ body{
 }
 
 #musicTitleForFooter {
-    font-size: 50px;
+    font-size: 3.125rem;
     color: white;
-    margin-left: 20px;
+    margin-left: 1.25rem;
 }
 
 #musicArtistForFooter {
-    font-size: 35px;
+    font-size: 2.1875rem;
     color: white;
-    margin-left: 25px;
-    margin-top: 10px;
+    margin-left: 1.5625rem;
+    margin-top: 0.625rem;
 }
 
 #addFooter{
@@ -592,10 +592,10 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: 90%;
-    width: 64px;
-    height: 64px;
-    margin-top: 102px;
-    margin-left: -160px;
+    width: 4rem;
+    height: 4rem;
+    margin-top: 6.375rem;
+    margin-left: -10rem;
     border-radius: 50%;
     background-color: transparent;
     border:none;
@@ -609,8 +609,8 @@ body{
 }
 
 #playPauseBtn {
-    width: 148px;
-    height: 148px;
+    width: 9.25rem;
+    height: 9.25rem;
     border-radius: 50%;
     background-image: url(/assets/footer-pause.svg);
     background-position: center;
@@ -620,8 +620,8 @@ body{
     color: white;
     border: none;
     cursor: pointer;
-    margin-top: 40px;
-    margin-left:2100px;
+    margin-top: 2.5rem;
+    margin-left:131.25rem;
 }
 
 #playPauseBtn:hover {
@@ -636,7 +636,7 @@ body{
     height: 100%;
     width: 0;
     background: #4CAF50;
-    border-radius: 3px;
+    border-radius: 0.1875rem;
 }
 
 .botaoplayer{
@@ -655,44 +655,44 @@ body{
 
 #shuffle{
     background-image: url(/assets/footer-shuffle.svg);
-    width: 65px;
-    height: 48px;
+    width: 4.0625rem;
+    height: 3rem;
     position: absolute;
-    margin-left: 1800px;
-    margin-top: 90px;
+    margin-left: 112.5rem;
+    margin-top: 5.625rem;
     border:none;
     cursor:pointer;
 }
 
 #previous{
     background-image: url(/assets/footer-previous.svg);
-    width: 60px;
-    height: 57px;
+    width: 3.75rem;
+    height: 3.5625rem;
     position: absolute;
-    margin-left: 1970px;
-    margin-top: 84px;
+    margin-left: 123.125rem;
+    margin-top: 5.25rem;
     border:none;
     cursor:pointer;
 }
 
 #next{
     background-image: url(/assets/footer-next.svg);
-    width: 60px;
-    height: 57px;
+    width: 3.75rem;
+    height: 3.5625rem;
     position: absolute;
-    margin-left: 2320px;
-    margin-top: 84px;
+    margin-left: 145rem;
+    margin-top: 5.25rem;
     border:none;
     cursor:pointer;
 }
 
 #repeat{
     background-image: url(/assets/footer-repeat.svg);
-    width: 73px;
-    height: 59px;
+    width: 4.5625rem;
+    height: 3.6875rem;
     position: absolute;
-    margin-left: 2480px;
-    margin-top: 84px;
+    margin-left: 155rem;
+    margin-top: 5.25rem;
     border:none;
     cursor:pointer;
 }
@@ -732,81 +732,81 @@ body{
 
 #playingOn{
     background-image: url(/assets/footer-playingon.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 3350px;
-    margin-top: -125px;
+    margin-left: 209.375rem;
+    margin-top: -7.8125rem;
     border:none;
 }
 
 #karaoke{
     background-image: url(/assets/footer-karaoke.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 3500px;
-    margin-top: -135px;
+    margin-left: 218.75rem;
+    margin-top: -8.4375rem;
     border:none;
 }
 
 #showList{
     background-image: url(/assets/footer-musiclist.svg);
-    width: 62px;
-    height: 55px;
+    width: 3.875rem;
+    height: 3.4375rem;
     position: absolute;
-    margin-left: 3650px;
-    margin-top: -120px;
+    margin-left: 228.125rem;
+    margin-top: -7.5rem;
     border:none;
 }
 
 #connect{
     background-image: url(/assets/footer-connect.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 3800px;
-    margin-top: -140px;
+    margin-left: 237.5rem;
+    margin-top: -8.75rem;
     border:none;
 }
 
 #soundControl{
     background-image: url(/assets/footer-sound\ icon.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 3950px;
-    margin-top: -140px;
+    margin-left: 246.875rem;
+    margin-top: -8.75rem;
     border:none;
 }
 
 #soundVol{
     background-image: url(/assets/soundvol.svg);
-    width: 260px;
-    height: 18px;
+    width: 16.25rem;
+    height: 1.125rem;
     position: absolute;
-    margin-left: 4030px;
-    margin-top: -104px;
+    margin-left: 251.875rem;
+    margin-top: -6.5rem;
     border:none;
 }
 
 #miniplayer{
     background-image: url(/assets/footer-miniplayer.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 4340px;
-    margin-top: -140px;
+    margin-left: 271.25rem;
+    margin-top: -8.75rem;
     border:none;
 }
 
 #fullscreen{
     background-image: url(/assets/footer-fullscreen.svg);
-    width: 63px;
-    height: 93px;
+    width: 3.9375rem;
+    height: 5.8125rem;
     position: absolute;
-    margin-left: 4455px;
-    margin-top: -140px;
+    margin-left: 278.4375rem;
+    margin-top: -8.75rem;
     border:none;
 }
 
@@ -819,11 +819,11 @@ body{
 
 #reticencias{
     background-image: url(/assets/cb\ 3pontos.svg);
-    width: 96px;
-    height: 28px;
+    width: 6rem;
+    height: 1.75rem;
     position: absolute;
-    margin-left: 106px;
-    margin-top: 100px;
+    margin-left: 6.625rem;
+    margin-top: 6.25rem;
     border: none;
     opacity: 0.8;
 }
@@ -837,11 +837,11 @@ body{
 
 #back{
     background-image: url(/assets/cb\ voltar.svg);
-    width: 40px;
-    height: 70px;
+    width: 2.5rem;
+    height: 4.375rem;
     position: absolute;
-    margin-left: 255px;
-    margin-top: 74px;
+    margin-left: 15.9375rem;
+    margin-top: 4.625rem;
     border: none;
     opacity: 0.8;
 }
@@ -855,11 +855,11 @@ body{
 
 #avancar{
     background-image: url(/assets/cb\ avancar.svg);
-    width: 40px;
-    height: 70px;
+    width: 2.5rem;
+    height: 4.375rem;
     position: absolute;
-    margin-left: 400px;
-    margin-top: 79px;
+    margin-left: 25rem;
+    margin-top: 4.9375rem;
     border: none;
     opacity: 0.8;
 }
@@ -873,11 +873,11 @@ body{
 
 #homeIcon{
     background-image: url(/assets/cb\ home.svg);
-    width: 150px;
-    height: 150px;
+    width: 9.375rem;
+    height: 9.375rem;
     position: absolute;
-    margin-left: 1750px;
-    margin-top: 32px;
+    margin-left: 109.375rem;
+    margin-top: 2rem;
     border: none;
     opacity: 0.8;
 }
@@ -890,29 +890,29 @@ body{
 }
 
 #pesquisa{
-    width:1800px;
-    height:140px;
-    border-radius: 100px;
-    margin-top: 40px;
-    margin-left: 1930px;
-    font-size: 60px;
+    width:112.5rem;
+    height:8.75rem;
+    border-radius: 6.25rem;
+    margin-top: 2.5rem;
+    margin-left: 120.625rem;
+    font-size: 3.75rem;
     color:rgb(233, 233, 233);
-    padding-left: 190px;
+    padding-left: 11.875rem;
     background-color: #1F1F1F;
     border:none;
 }
 
 #pesquisa ::placeholder{
-    font-size: 150px;
+    font-size: 9.375rem;
 }
 
 #searchIcon { 
     background-image: url(/assets/cb\ search.svg);
-    width: 85px;
-    height: 79px;
+    width: 5.3125rem;
+    height: 4.9375rem;
     position: absolute;
-    margin-left: 1970px;
-    margin-top: 70px;
+    margin-left: 123.125rem;
+    margin-top: 4.375rem;
     border: none;
     opacity: 0.8;
 }
@@ -926,22 +926,22 @@ body{
 
 #verticalLine{
     background-image: url(/assets/cb\ vertical\ line.svg);
-    width: 6px;
-    height: 100px;
+    width: 0.375rem;
+    height: 6.25rem;
     position:absolute;
-    margin-left: 3530px;
-    margin-top: 60px;
+    margin-left: 220.625rem;
+    margin-top: 3.75rem;
     border:none;
     opacity: 0.8;
 }
 
 #market{
     background-image: url(/assets/cb\ market.svg);
-    width: 88px;
-    height: 76px;
+    width: 5.5rem;
+    height: 4.75rem;
     position:absolute;
-    margin-left: 3580px;
-    margin-top: 72px;
+    margin-left: 223.75rem;
+    margin-top: 4.5rem;
     border:none;
     opacity: 0.8;
 }
@@ -955,11 +955,11 @@ body{
 
 #notifications{
     background-image: url(/assets/cb\ notifictions.svg);
-    width: 95px;
-    height: 85px;
+    width: 5.9375rem;
+    height: 5.3125rem;
     position: absolute;
-    margin-left: 4150px;
-    margin-top: 50px;
+    margin-left: 259.375rem;
+    margin-top: 3.125rem;
     border: none;
     opacity: 0.8;
 }
@@ -972,11 +972,11 @@ body{
 
 #social{
     background-image: url(/assets/cb\ friends.svg);
-    width: 69px;
-    height: 59px;
+    width: 4.3125rem;
+    height: 3.6875rem;
     position: absolute;
-    margin-left: 4330px;
-    margin-top: 80px;
+    margin-left: 270.625rem;
+    margin-top: 5rem;
     border: none;
     opacity: 0.8;
 }
@@ -989,11 +989,11 @@ body{
 
 #userProfile{
     background-image: url(/assets/cb\ user\ account.svg);
-    width: 160px;
-    height: 160px;
+    width: 10rem;
+    height: 10rem;
     position: absolute;
-    margin-left: 4470px;
-    margin-top: 23px;
+    margin-left: 279.375rem;
+    margin-top: 1.4375rem;
     border: none;
     opacity: 0.8;
 }
@@ -1006,11 +1006,11 @@ body{
 
 #minimize{
     background-image: url(/assets/cb\ minimize.svg);
-    width: 48px;
-    height: 46px;
+    width: 3rem;
+    height: 2.875rem;
     position: absolute;
-    margin-left: 4725px;
-    margin-top: 80px;
+    margin-left: 295.3125rem;
+    margin-top: 5rem;
     border: none;
     opacity: 0.8;
 }
@@ -1023,11 +1023,11 @@ body{
 
 #maximize{
     background-image: url(/assets/cb\ maximize.svg);
-    width: 48px;
-    height: 46px;
+    width: 3rem;
+    height: 2.875rem;
     position: absolute;
-    margin-left: 4900px;
-    margin-top: 80px;
+    margin-left: 306.25rem;
+    margin-top: 5rem;
     border: none;
     opacity: 0.8;
 }
@@ -1040,11 +1040,11 @@ body{
 
 #close{
     background-image: url(/assets/cb\ close.svg);
-    width: 43px;
-    height: 43px;
+    width: 2.6875rem;
+    height: 2.6875rem;
     position: absolute;
-    margin-left: 5070px;
-    margin-top: 80px;
+    margin-left: 316.875rem;
+    margin-top: 5rem;
     border: none;
     opacity: 0.8;
 }
@@ -1056,46 +1056,46 @@ body{
 }
 
 #time-display{
-font-size: 50px;
+font-size: 3.125rem;
 color:white;
 }
 
 #progress-barr {
-    width: 1800px; /* Ajuste conforme necessário */
-    height: 10px; /* Altura do contêiner */
+    width: 112.5rem; /* Ajuste conforme necessário */
+    height: 0.625rem; /* Altura do contêiner */
     background-color: #333; /* Cor de fundo do contêiner */
-    border-radius: 5px; /* Bordas arredondadas */
-    margin-top: 35px;
-    margin-left: 1250px;;
+    border-radius: 0.3125rem; /* Bordas arredondadas */
+    margin-top: 2.1875rem;
+    margin-left: 78.125rem;;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .progress-bar {
     flex: 1;
     appearance: none;
     -webkit-appearance: none;
-    height: 5px;
+    height: 0.3125rem;
     background-color: #61dafb; /* Cor da barra de progresso */
     outline: none;
-    border-radius: 5px; /* Bordas arredondadas */
+    border-radius: 0.3125rem; /* Bordas arredondadas */
     cursor: pointer;
 }
 
 .progress-bar::-webkit-slider-thumb {
     appearance: none;
     -webkit-appearance: none;
-    width: 30px;
-    height: 30px;
+    width: 1.875rem;
+    height: 1.875rem;
     background: #4CAF50; /* Cor do botão deslizante */
     border-radius: 50%;
     cursor: pointer;
 }
 
 .progress-bar::-moz-range-thumb {
-    width: 30px;
-    height: 30px;
+    width: 1.875rem;
+    height: 1.875rem;
     background: #4CAF50; /* Cor do botão deslizante */
     border-radius: 50%;
     cursor: pointer;
